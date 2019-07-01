@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4AA9-A0F7
+
+ Directory of C:\Users\Praveen Kumar\Desktop\Java Project
+
+07/01/2019  03:06 PM    <DIR>          .
+07/01/2019  03:06 PM    <DIR>          ..
+06/26/2019  08:11 PM               673 Hello.class
+06/26/2019  07:04 PM               143 Hello.java
+06/26/2019  07:31 PM                48 index.html
+06/26/2019  07:31 PM                36 readme.txt
+06/26/2019  08:05 PM                59 Test1.txt
+06/26/2019  08:09 PM                70 Test2.txt
+07/01/2019  03:06 PM                 0 Test4.txt
+               7 File(s)          1,029 bytes
+               2 Dir(s)  132,195,622,912 bytes free
